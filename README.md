@@ -21,4 +21,4 @@ It features a command-line chatbot that demonstrates fundamental Python concepts
 
 ## Files
 - `chatbot.py`: Main application script.
-- `chatbot_assignment.zip`: Submission archive containing the source code.
+
